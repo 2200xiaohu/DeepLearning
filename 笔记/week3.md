@@ -28,7 +28,7 @@ dW^{[1]},db^{[1]},dW^{[2]},db^{[2]}\cdots dW^{[L]},db^{[L]} 每个都转换为�
 $$
 之后，对于$\theta ,d\theta$中的每个分量进行计算
 
-![image-20230115133646126](C:\Users\nigel\AppData\Roaming\Typora\typora-user-images\image-20230115133646126.png)
+![image-20230115133646126](https://typora-nigel.oss-cn-nanjing.aliyuncs.com/img/image-20230115133646126.png)
 
 然后计算$d\theta_{approx}和d\theta$ 的欧几里得距离，如果在1e-5~1e-7，可认为正常
 
@@ -48,7 +48,7 @@ mini-batch的思想是：将整个数据集分成多个小的mini-batch，即划
 
 通常mini-batch的梯度下降画出来是有点特别的，并不是单调下降的，但整体趋势是下降的
 
-![image-20230115135718553](C:\Users\nigel\AppData\Roaming\Typora\typora-user-images\image-20230115135718553.png)
+![image-20230115135718553](https://typora-nigel.oss-cn-nanjing.aliyuncs.com/img/image-20230115135718553.png)
 
 mini-batch的大小越接近整个数据集的大小，梯度下降的噪声越小。
 

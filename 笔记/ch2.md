@@ -20,7 +20,7 @@
 
 # 正则化
 
-![image-20221223100150305](C:\Users\nigel\AppData\Roaming\Typora\typora-user-images\image-20221223100150305.png)
+![image-20221223100150305](https://typora-nigel.oss-cn-nanjing.aliyuncs.com/img/image-20221223100150305.png)
 
 L2：是根据模长的平方进行惩罚
 
